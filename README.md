@@ -30,5 +30,6 @@ Antes de executar o projeto, certifique-se de ter o seguinte instalado:
 
 1. Clone o repositório:
 
+   ```bash
    git clone https://github.com/Allanvvaz/WebScraperProject.git
    cd WebScrapperProject
